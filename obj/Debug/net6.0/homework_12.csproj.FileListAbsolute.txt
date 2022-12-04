@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\homework_12\obj\Debug\net6.0\homework_12.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub\homework_12\obj\Debug\net6.0\homework_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\homework_12\obj\Debug\net6.0\homework_12.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\homework_12\obj\Debug\net6.0\homework_12.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\homework_12\obj\Debug\net6.0\homework_12.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\homework_12\bin\Debug\net6.0\homework_12.exe
+C:\Users\pc\Documents\GitHub\homework_12\bin\Debug\net6.0\homework_12.deps.json
+C:\Users\pc\Documents\GitHub\homework_12\bin\Debug\net6.0\homework_12.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\homework_12\bin\Debug\net6.0\homework_12.dll
+C:\Users\pc\Documents\GitHub\homework_12\bin\Debug\net6.0\homework_12.pdb
+C:\Users\pc\Documents\GitHub\homework_12\obj\Debug\net6.0\homework_12.dll
+C:\Users\pc\Documents\GitHub\homework_12\obj\Debug\net6.0\refint\homework_12.dll
+C:\Users\pc\Documents\GitHub\homework_12\obj\Debug\net6.0\homework_12.pdb
+C:\Users\pc\Documents\GitHub\homework_12\obj\Debug\net6.0\homework_12.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\homework_12\obj\Debug\net6.0\ref\homework_12.dll
